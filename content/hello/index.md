@@ -1,7 +1,8 @@
 +++
-date = "2015-06-20T14:02:37+02:00"
-title = "About"
-hidden = true
+title = "hello"
+description = "This page gives basic information about My Nutty Website and the reasons it was created."
+date = "2016-02-18T10:59:28-07:00"
+draft = false
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.

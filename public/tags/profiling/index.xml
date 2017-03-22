@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hellos on aremm</title>
-    <link>https://rajat.design/hello/index.xml</link>
-    <description>Recent content in Hellos on aremm</description>
+    <title>Profiling on aremm</title>
+    <link>https://rajat.design/tags/profiling/index.xml</link>
+    <description>Recent content in Profiling on aremm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jun 2013 11:27:27 -0400</lastBuildDate>
-    <atom:link href="https://rajat.design/hello/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rajat.design/tags/profiling/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nitro: A quick and simple profiler for Go</title>

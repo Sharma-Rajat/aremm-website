@@ -12,7 +12,8 @@
   </url>
   
   <url>
-    <loc>https://rajat.design/hello/</loc>
+    <loc>https://rajat.design/hello/nitro/</loc>
+    <lastmod>2013-06-21T11:27:27-04:00</lastmod>
   </url>
   
   <url>
@@ -22,13 +23,37 @@
   </url>
   
   <url>
+    <loc>https://rajat.design/tags/development/</loc>
+    <lastmod>2013-06-21T11:27:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajat.design/tags/go/</loc>
+    <lastmod>2013-06-21T11:27:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rajat.design/hello/</loc>
+    <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rajat.design/post/</loc>
     <lastmod>2016-07-25T21:04:23-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajat.design/tags/profiling/</loc>
+    <lastmod>2013-06-21T11:27:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajat.design/tags/</loc>
     <priority>0</priority>
   </url>
   
