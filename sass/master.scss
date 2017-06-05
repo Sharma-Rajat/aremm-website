@@ -1,7 +1,14 @@
-//master.scss
-@import "utilities/all";
-@import "base/all";
-@import "components/all";
-@import "elements/all";
-@import "grid/all";
-@import "layout/all";
+//master
+@import 'components/reset';
+@import 'components/colors';
+@import 'base';
+@import 'components/grid';
+@import 'components/typography';
+@import 'components/utilities';
+@import 'components/forms';
+@import 'components/lists';
+@import 'components/buttons';
+@import 'components/main';
+@import 'components/navigation';
+@import 'components/footer';
+@import 'components/animations';

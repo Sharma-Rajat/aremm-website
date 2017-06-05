@@ -1,0 +1,61 @@
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  color: #606c76;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.6em;
+  font-weight: 400;
+  letter-spacing: .01em;
+  line-height: 1.6;
+  margin:0;
+  padding:0em;
+  overflow-x: hidden;
+}
+
+.button,
+button,
+dd,
+dt,
+li {
+  margin-bottom: 1.0rem;
+}
+
+fieldset,
+input,
+select,
+textarea {
+  margin-bottom: 1.5rem;
+}
+
+blockquote,
+dl,
+figure,
+form,
+ol,
+p,
+pre,
+table,
+ul {
+  margin-bottom: 2.5rem;
+}
+
+// img {
+//   max-width: 100%;
+// }
+//Larger than mobile screen 
+@media (min-width: 40.0rem) {}
+
+// Larger than tablet screen 
+@media (min-width: 80.0rem) {}
+
+// Larger than desktop screen 
+@media (min-width: 120.0rem) {}

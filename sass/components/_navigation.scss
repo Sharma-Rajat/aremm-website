@@ -1,0 +1,74 @@
+//navigation main
+.slanted-1 {
+    position: absolute;
+    z-index:-1;
+    @include for-size(phone-only) {
+    	top: -50em;
+    	left: -25em;
+    }
+    @include for-size(tablet-portrait-up) {
+    	top: -40em;
+    	left: -25em;
+    }
+    @include for-size(tablet-landscape-up) {
+    	top: -45em;
+    	left: -25em;
+    }
+    @include for-size(desktop-up) {
+    	top: -35em;
+    	left: -25em;
+    }
+    @include for-size(big-desktop-up) {
+    	top: -40em;
+    	left: -5em;
+    }
+}
+.header {
+	height: 100vh;
+	text-align: center;
+}
+.header-container {
+	position: relative;
+	padding-top:0em;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+.logo {
+	width: 50em;
+	max-width:100%;
+}
+.nav {
+	width: 100%;
+}
+.main-nav{
+	display:none;
+
+ 	@include for-size(desktop-up) {
+ 		display:block;
+ 	}
+}
+.main-nav-list {
+	list-style: none;
+	padding: 0.4em 0em 0em 0em;
+}
+.main-nav-item {
+	display: inline-block;
+	padding: 0em 2.5em;
+}
+.main-nav-link {
+	font-family: "Arimo", sans-seif;
+	font-weight: 700;
+	font-size: 1.25em;
+	color: $color-primary-black;
+}
+.mobile-header {
+	display:block;
+
+	@include for-size(desktop-up) {
+		display:none;
+    }
+}
+// import mobile nav specific css
+@import "mobile-navigation";
