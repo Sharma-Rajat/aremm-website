@@ -1,9 +1,24 @@
-  <!-- Hero footer: will stick at the bottom -->
-  <div class="hero-foot">
-    <nav class="is-boxed is-fullwidth">
-      <div class="container">
-        <a href="">copyrights this is a footer</a>
-      </div>
-    </nav>
-  </div>
-  {{ partial "footer_includes.html" . }}
+<footer>
+	<div class="container focus-in-expand">
+		<div class="row row-center text-center">
+			<div class="column column-100">
+				<h2 class="yellow-bar">Contact</h2>
+			</div>
+		</div>
+		<div class="row row-center">
+			<div class="column">
+				<h3 class="secondary-header">Address</h3>
+				<p>65 Rue Sherbrooke E, <br> Montréal, QC H2X 1C4</p>
+			</div>
+			<div class="column">
+				<h3 class="secondary-header">Phone</h3>
+				<p>514-546-2432<br>514-824-2815</p>
+			</div>
+			<div class="column">
+				<h3 class="secondary-header ">Email</h3>
+				<p>Hello@company.com<br>emergency@company.co</p>
+			</div>
+		</div>
+	</div>
+	{{ partial "footer_includes.html" . }}
+</footer>

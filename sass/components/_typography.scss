@@ -23,7 +23,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 300;
+  font-family: "Arimo", sans-serif;
+  font-weight: 400;
+  color: $color-primary-black;
   letter-spacing: -.1rem;
   margin-bottom: 2.0rem;
   margin-top: 0;
@@ -60,4 +62,23 @@ h6 {
   font-size: 1.6rem;
   letter-spacing: 0;
   line-height: 1.4;
+}
+
+.yellow-bar {
+  opacity: 0.85;
+}
+.yellow-bar::first-letter {
+  text-decoration: underline $color-primary-gold;
+}
+.blue-bar {
+  opacity: 0.85;
+}
+.blue-bar::first-letter {
+  text-decoration: underline $color-primary-blue;
+}
+.secondary-header {
+  color: $color-primary-gold;
+}
+.tertiary-header {
+  color: $color-primary-white;
 }
