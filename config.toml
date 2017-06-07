@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "AREMM"
-baseURL = "https://aremm.co"
+baseURL = "https://rajat.design"
 canonifyurls = true
 contentDir = "content"
 layoutDir = "layouts"

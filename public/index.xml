@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on AREMM</title>
-    <link>https://aremm.co/</link>
+    <link>https://rajat.design/</link>
     <description>Recent content in Home on AREMM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2013 11:27:27 -0400</lastBuildDate>
     
-	<atom:link href="https://aremm.co/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rajat.design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>first</title>
-      <link>https://aremm.co/post/first/</link>
+      <link>https://rajat.design/post/first/</link>
       <pubDate>Mon, 25 Jul 2016 21:04:23 -0500</pubDate>
       
-      <guid>https://aremm.co/post/first/</guid>
+      <guid>https://rajat.design/post/first/</guid>
       <description> My first blog post </description>
     </item>
     
